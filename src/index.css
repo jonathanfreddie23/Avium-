@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'sakana';
+    src: url(./assets/fonts/Sakana.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'montserrat';
+    src: url(./assets/fonts/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'montserrat-medium';
+    src: url(./assets/fonts/Montserrat-SemiBold.ttf) format('truetype');
+}
